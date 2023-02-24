@@ -1,0 +1,83 @@
+.btn_1{
+    width: 150px;
+    height: 30px;
+    background-color:#16a085;
+    font-size: 18px;
+    left: 55px;
+    font-style: italic;
+    bottom: 200px;
+    size: 100px;
+    position: absolute;
+    top: 30px;
+}
+ 
+.modal-container{
+    position: fixed;  
+    left: 0;  
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+}
+.modal{
+    position: absolute;
+    left: 300px;
+    top: 100px;
+    right: 100px;
+    bottom: 1000px;
+    background-color: white;  
+    border-radius: 15px;
+    box-shadow: 20 20 50px black;
+    text-align: center;
+}
+    
+
+.btn_2{
+    width: 150px;
+    height: 30px;
+    background-color:#9b59b6;
+    font-size: 18px;
+    left: 55px;
+    font-style: italic;
+    bottom: 20px;
+    size: 10px;
+    position: absolute;
+    top: 80px;
+}
+ .btn_3{
+    width: 150px;
+    height: 30px;
+    background-color:#e67e22;
+    font-size: 18px;
+    left: 55px;
+    font-style: italic;
+    bottom: 20px;
+    size: 10px;
+    position: absolute;
+    top: 130px;
+ }
+ .btn_4{
+    width: 150px;
+    height: 30px;
+    background-color:#3498db;
+    font-size: 18px;
+    left: 55px;
+    font-style: italic;
+    bottom: 20px;
+    size: 10px;
+    position: absolute;
+    top: 180px;
+ }
+ .btn_5{
+    width: 150px;
+    height: 30px;
+    background-color:#e74c3c;
+    font-size: 18px;
+    left: 55px;
+    font-style: italic;
+    bottom: 20px;
+    size: 10px;
+    position: absolute;
+    top: 230px;
+ }
